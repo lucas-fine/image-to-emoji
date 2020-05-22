@@ -3,6 +3,9 @@ This is a python3 script that was originally made for a discord bot when given a
 
 # examples
 **before** 
+
 ![original](https://i.imgur.com/fFj53pC.jpg)
 
-**after** ![new](https://i.imgur.com/Z3y4zIE.png)
+**after** !
+
+[new](https://i.imgur.com/Z3y4zIE.png)
